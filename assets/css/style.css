@@ -2,12 +2,12 @@ div {
     background-color: cyan; 
 
 }
-div p {
+.bg-yellow {
 
     background-color: yellow;
 }
-.paragraphe {
-background-color: orange;
+.bg-orange {
+    background-color: orange;
 }
 
 #me {
@@ -19,4 +19,25 @@ background-color: orange;
     padding: 40px;
 
 
+}
+.p20 {
+    padding: 20px 10px ;
+}
+.fc-green {
+    color: green;
+
+
+}
+.fc-red {
+
+    color: red;
+}
+table,th,td {
+    border-collapse: collapse;
+    border: 1px solid;
+
+}
+th,td{
+
+    padding: 8px;
 }
