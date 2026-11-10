@@ -1,0 +1,43 @@
+div {
+    background-color: cyan; 
+
+}
+.bg-yellow {
+
+    background-color: yellow;
+}
+.bg-orange {
+    background-color: orange;
+}
+
+#me {
+    margin: 40px;
+
+
+}
+#mi {
+    padding: 40px;
+
+
+}
+.p20 {
+    padding: 20px 10px ;
+}
+.fc-green {
+    color: green;
+
+
+}
+.fc-red {
+
+    color: red;
+}
+table,th,td {
+    border-collapse: collapse;
+    border: 1px solid;
+
+}
+th,td{
+
+    padding: 8px;
+}
